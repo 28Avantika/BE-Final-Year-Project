@@ -9,24 +9,11 @@ This project is a web application designed to detect early signs of Alzheimer's 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Demo/Preview](#demopreview)
-3. [Features](#features)
-4. [Technologies Used](#technologies-used)
-5. [Installation Instructions](#installation-instructions)
-6. [Usage Instructions](#usage-instructions)
-7. [Contact Information](#contact-information)
-
----
-
-## Demo/Preview
-
-You can view the live demo of the application hosted on GitHub Pages:
-
-[Live Demo](https://github.com/28Avantika/BE-Final-Year-Project)
-
-Alternatively, here is a preview of the application:
-
-![Application Screenshot](./assets/screenshot.png)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Installation Instructions](#installation-instructions)
+5. [Usage Instructions](#usage-instructions)
+6. [Contact Information](#contact-information)
 
 ---
 
@@ -45,9 +32,8 @@ Alternatively, here is a preview of the application:
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Python, Flask
-- **Machine Learning**: TensorFlow, Keras
+- **Machine Learning**: TensorFlow, Keras, CNN
 - **Database**: PostgreSQL
-- **Hosting**: GitHub Pages
 - **Version Control**: Git, GitHub
 
 ---
@@ -114,4 +100,3 @@ Follow these steps to set up the project locally:
 - **Email**: avantikashende2@gmail.com
 - **GitHub**: [Avantika Shende's GitHub Profile](https://github.com/28Avantika)
 
-Feel free to reach out if you have any questions or feedback!
